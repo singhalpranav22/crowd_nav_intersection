@@ -1,0 +1,14 @@
+gym==0.17.0
+gitpython
+matplotlib
+numpy
+scipy
+torch
+torchvision
+pandas
+opencv-python
+PySimpleGUI
+
+[test]
+pylint
+pytest
