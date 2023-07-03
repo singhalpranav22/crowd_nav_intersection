@@ -101,3 +101,7 @@ Exiting the GUI:
 
 To exit the GUI, either close the GUI window or click the "Exit" button.
 By following these instructions, you can effectively use the GUI to visualize CSV datasets and generate custom datasets for training and testing crowd navigation models.e GUI:
+
+### Contributors
+1. Pranav Singhal - IIT2019050
+2. Mrinal Bhave - IIT2019152
